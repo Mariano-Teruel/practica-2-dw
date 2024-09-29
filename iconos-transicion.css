@@ -1,0 +1,40 @@
+/*para cambiar color de iconos*/
+
+
+
+
+.ul-f-contacto .wsp:hover img {
+    content: url('https://cdn-icons-png.flaticon.com/128/13670/13670447.png'); /* Cambia a la versión de color */
+
+}
+
+.ul-f-contacto .wsp:hover {
+    border-radius: 30%; /* Ajusta el borde si es necesario */
+    padding: 0; /* Espacio alrededor del ícono */
+}
+.ul-f-contacto .insta:hover img {
+    content: url('https://cdn-icons-png.flaticon.com/128/174/174855.png'); /* Cambia a la versión de color */
+}
+
+.ul-f-contacto .insta:hover {
+    border-radius: 30%; /* Ajusta el borde si es necesario */
+    padding: 0; /* Espacio alrededor del ícono */
+}
+
+.ul-f-contacto .linkedin:hover img {
+    content: url('https://cdn-icons-png.flaticon.com/128/145/145807.png'); /* Cambia a la versión de color */
+}
+
+.ul-f-contacto .linkedin:hover {
+    
+    padding: 0; /* Espacio alrededor del ícono */
+}
+
+.ul-f-contacto .x:hover img {
+    content: url('https://cdn-icons-png.flaticon.com/128/5968/5968830.png'); /* Cambia a la versión de color */
+}
+
+.ul-f-contacto .x:hover {
+    
+    padding: 0; /* Espacio alrededor del ícono */
+}
